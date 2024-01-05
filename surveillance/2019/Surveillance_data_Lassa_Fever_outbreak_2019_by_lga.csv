@@ -1,0 +1,444 @@
+"source","EpiWeek","DateMin","DateMax","LGA","Lat","Lon","ConfCases"
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Abakaliki",6.3198588,8.059714,1
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Esan South-East",6.5773574,6.1348522,1
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Etsako West",7.0003413,6.1625552,3
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Owan West",6.9330839,5.7340824,1
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Ose",7.0504103,5.4165515,3
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Owo",7.2007797,5.532668,5
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Karu",8.9920075,7.5695826,1
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Lafia",8.5070178,8.4793035,1
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Bauchi",10.3129773,9.8015685,1
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Toro",10.0568128,9.0582467,2
+"https://ncdc.gov.ng/data",1,2018-12-31,2019-01-06,"Jos South",9.7586871,8.6740414,1
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Bali",7.856203,10.9444427,1
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Shendam",8.8952075,9.4500631,1
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Toro",10.0568128,9.0582467,3
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Abakaliki",6.3198588,8.059714,4
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Ezza South",6.1244421,7.9343718,1
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Esan South-East",6.5773574,6.1348522,1
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Esan North-East",6.7873133,6.2190187,2
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Esan West",6.6595554,5.9664011,4
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Etsako West",7.0003413,6.1625552,7
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Owan West",6.9330839,5.7340824,1
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Ose",7.0504103,5.4165515,4
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Akoko South West",7.40155,5.5107262,2
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Owo",7.2007797,5.532668,12
+"https://ncdc.gov.ng/data",2,2019-01-07,2019-01-13,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Bauchi",10.3129773,9.8015685,7
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Yola South",9.2617617,12.369616,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Jalingo",8.8971442,11.3287545,3
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Bali",7.856203,10.9444427,2
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Shendam",8.8952075,9.4500631,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Riyom",9.5834746,8.7100553,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Jos North",9.9427289,8.8124815,7
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Makurdi",7.7290812,8.4735233,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Izzi",6.5808749,8.0391487,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Abakaliki",6.3198588,8.059714,2
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Oredo",6.2313139,5.390118,2
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Esan West",6.6595554,5.9664011,8
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Esan North-East",6.7873133,6.2190187,5
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Esan Central",6.7055907,6.0923684,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Etsako West",7.0003413,6.1625552,15
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Etsako East",7.187563,6.3206927,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Owan West",6.9330839,5.7340824,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Akoko-Edo",7.3523788,5.8403571,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Akoko North West",7.650762,5.6135359,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Owo",7.2007797,5.532668,14
+"https://ncdc.gov.ng/data",3,2019-01-14,2019-01-20,"Ose",7.0504103,5.4165515,2
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Igabi",10.806046,7.7130595,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Chikun",10.2683965,7.1035516,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Bauchi",10.3129773,9.8015685,2
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Gombe",10.4034568,9.8546441,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Tafawa-Balewa",9.7650629,9.5311408,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Jos North",9.9427289,8.8124815,2
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Jos South",9.7586871,8.6740414,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Riyom",9.5834746,8.7100553,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Ardo-Kola",8.8468556,10.8762474,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Bali",7.856203,10.9444427,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Gwer East",7.3772499,8.1096454,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Baruten",9.3677918,2.6176904,2
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Ebonyi",6.2420527,7.3206382,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Abakaliki",6.3198588,8.059714,6
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Ezza South",6.1244421,7.9343718,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Ikwo",6.0707939,8.0872747,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Oyigbo",4.8898552,7.0830414,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Oredo",6.2313139,5.390118,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Ibaji",6.7923384,6.4565163,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Esan North-East",6.7873133,6.2190187,7
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Esan Central",6.7055907,6.0923684,2
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Esan West",6.6595554,5.9664011,6
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Etsako West",7.0003413,6.1625552,7
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Owan East",7.0273682,5.7001891,1
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Ose",7.0504103,5.4165515,5
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Owo",7.2007797,5.532668,21
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Akure North",7.2543485,5.1706505,3
+"https://ncdc.gov.ng/data",4,2019-01-21,2019-01-27,"Akure South",7.2240233,5.0584892,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Gashaka",7.3673064,11.4844894,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Bali",7.856203,10.9444427,2
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Bauchi",10.3129773,9.8015685,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Dass",10.0285674,9.3261511,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Toro",10.0568128,9.0582467,2
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Jos North",9.9427289,8.8124815,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Riyom",9.5834746,8.7100553,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Bokkos",9.2983739,8.9807638,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Kachia",9.8795757,7.9339444,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Makurdi",7.7290812,8.4735233,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Abakaliki",6.3198588,8.059714,3
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Oshimili South",6.1294437,6.5014023,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Oredo",6.2313139,5.390118,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Esan North-East",6.7873133,6.2190187,4
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Etsako Central",6.9790035,6.3572965,1
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Etsako West",7.0003413,6.1625552,10
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Esan West",6.6595554,5.9664011,3
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Esan Central",6.7055907,6.0923684,4
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Ose",7.0504103,5.4165515,3
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Owo",7.2007797,5.532668,15
+"https://ncdc.gov.ng/data",5,2019-01-28,2019-02-03,"Nasarawa",8.5454849,6.9563014,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Gombe",10.4034568,9.8546441,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Birnin Kebbi",12.4472908,4.1673495,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Bali",7.856203,10.9444427,2
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Kanam",9.5606185,9.9499995,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Langtang North",9.0478501,9.4699737,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Jos South",9.7586871,8.6740414,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Gboko",7.322417,8.9144534,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Izzi",6.5808749,8.0391487,3
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Afikpo North",5.8615078,7.7685156,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Obio/Akpor",4.8665554,6.9396897,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Esan North-East",6.7873133,6.2190187,2
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Etsako West",7.0003413,6.1625552,7
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Ose",7.0504103,5.4165515,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Owo",7.2007797,5.532668,7
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Akoko South West",7.40155,5.5107262,1
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Akure North",7.2543485,5.1706505,2
+"https://ncdc.gov.ng/data",6,2019-02-04,2019-02-10,"Ijebu North East",6.8875319,3.937024,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Jalingo",8.8971442,11.3287545,2
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Ardo-Kola",8.8468556,10.8762474,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Abakaliki",6.3198588,8.059714,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Bokkos",9.2983739,8.9807638,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Tafawa-Balewa",9.7650629,9.5311408,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Bauchi",10.3129773,9.8015685,2
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Ganjuwa",10.8524238,10.1581077,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Toro",10.0568128,9.0582467,4
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Jos North",9.9427289,8.8124815,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Birnin Kebbi",12.4472908,4.1673495,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Ibaji",6.7923384,6.4565163,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Etsako Central",6.9790035,6.3572965,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Etsako West",7.0003413,6.1625552,3
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",7,2019-02-11,2019-02-17,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Gashaka",7.3673064,11.4844894,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Ardo-Kola",8.8468556,10.8762474,2
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Karin-Lamido",9.3225991,11.1723659,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Toro",10.0568128,9.0582467,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Nasarawa Egon",8.7442965,8.5326218,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Jema A",9.3207236,7.9613843,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Karu",8.9920075,7.5695826,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Esan West",6.6595554,5.9664011,4
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Esan Central",6.7055907,6.0923684,2
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Esan North-East",6.7873133,6.2190187,2
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Etsako West",7.0003413,6.1625552,2
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Akoko-Edo",7.3523788,5.8403571,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Akoko South East",7.4231691,5.8222566,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Ose",7.0504103,5.4165515,1
+"https://ncdc.gov.ng/data",8,2019-02-18,2019-02-24,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Bali",7.856203,10.9444427,1
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Lau",9.2074219,11.2435993,1
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Bauchi",10.3129773,9.8015685,2
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Abakaliki",6.3198588,8.059714,2
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Oshimili South",6.1294437,6.5014023,1
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Esan West",6.6595554,5.9664011,4
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Esan North-East",6.7873133,6.2190187,3
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Esan Central",6.7055907,6.0923684,1
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Etsako West",7.0003413,6.1625552,9
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Etsako East",7.187563,6.3206927,4
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Ose",7.0504103,5.4165515,1
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Owo",7.2007797,5.532668,7
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Akure South",7.2240233,5.0584892,1
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Akoko South West",7.40155,5.5107262,1
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Akoko North West",7.650762,5.6135359,1
+"https://ncdc.gov.ng/data",9,2019-02-25,2019-03-03,"Ijumu",7.8421243,5.5995684,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Bauchi",10.3129773,9.8015685,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Oshimili South",6.1294437,6.5014023,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Ezza North",6.2606997,7.8050319,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Ohaukwu",6.5273837,7.8485524,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Ebonyi",6.2420527,7.3206382,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Izzi",6.5808749,8.0391487,2
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Abakaliki",6.3198588,8.059714,3
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Ikwo",6.0707939,8.0872747,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Ikpoba-Okha",6.2023706,5.3045865,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Esan South-East",6.5773574,6.1348522,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Esan North-East",6.7873133,6.2190187,5
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Esan West",6.6595554,5.9664011,8
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Etsako West",7.0003413,6.1625552,3
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Etsako Central",6.9790035,6.3572965,2
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Etsako East",7.187563,6.3206927,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Ibaji",6.7923384,6.4565163,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Lafia",8.5070178,8.4793035,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Ose",7.0504103,5.4165515,4
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Owo",7.2007797,5.532668,7
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Bali",7.856203,10.9444427,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Ardo-Kola",8.8468556,10.8762474,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Gassol",8.5372854,10.4386632,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Bali",7.856203,10.9444427,1
+"https://ncdc.gov.ng/data",10,2019-03-04,2019-03-10,"Toro",10.0568128,9.0582467,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Alkaleri",10.2694429,10.3208826,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Bauchi",10.3129773,9.8015685,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Toro",10.0568128,9.0582467,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Zuru",11.4337357,5.1742075,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Makurdi",7.7290812,8.4735233,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Izzi",6.5808749,8.0391487,2
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Abakaliki",6.3198588,8.059714,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Isu",6.16298,7.8057956,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Etsako West",7.0003413,6.1625552,5
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Esan West",6.6595554,5.9664011,3
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Ose",7.0504103,5.4165515,1
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",11,2019-03-11,2019-03-17,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",12,2019-03-18,2019-03-24,"Donga",7.7208351,10.0318524,1
+"https://ncdc.gov.ng/data",12,2019-03-18,2019-03-24,"Karin-Lamido",9.3225991,11.1723659,1
+"https://ncdc.gov.ng/data",12,2019-03-18,2019-03-24,"Mangu",9.492877,9.106187,1
+"https://ncdc.gov.ng/data",12,2019-03-18,2019-03-24,"Tafawa-Balewa",9.7650629,9.5311408,1
+"https://ncdc.gov.ng/data",12,2019-03-18,2019-03-24,"Toro",10.0568128,9.0582467,2
+"https://ncdc.gov.ng/data",12,2019-03-18,2019-03-24,"Abakaliki",6.3198588,8.059714,1
+"https://ncdc.gov.ng/data",12,2019-03-18,2019-03-24,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",12,2019-03-18,2019-03-24,"Etsako West",7.0003413,6.1625552,3
+"https://ncdc.gov.ng/data",12,2019-03-18,2019-03-24,"Owo",7.2007797,5.532668,3
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Donga",7.7208351,10.0318524,1
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Jos North",9.9427289,8.8124815,1
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Toro",10.0568128,9.0582467,2
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Etsako Central",6.9790035,6.3572965,2
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Etsako West",7.0003413,6.1625552,1
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Ose",7.0504103,5.4165515,3
+"https://ncdc.gov.ng/data",13,2019-03-25,2019-03-31,"Owo",7.2007797,5.532668,1
+"https://ncdc.gov.ng/data",14,2019-04-01,2019-03-07,"Bali",7.856203,10.9444427,1
+"https://ncdc.gov.ng/data",14,2019-04-01,2019-03-07,"Toro",10.0568128,9.0582467,1
+"https://ncdc.gov.ng/data",14,2019-04-01,2019-03-07,"Dass",10.0285674,9.3261511,1
+"https://ncdc.gov.ng/data",14,2019-04-01,2019-03-07,"Izzi",6.5808749,8.0391487,1
+"https://ncdc.gov.ng/data",14,2019-04-01,2019-03-07,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",14,2019-04-01,2019-03-07,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",14,2019-04-01,2019-03-07,"Ose",7.0504103,5.4165515,2
+"https://ncdc.gov.ng/data",14,2019-04-01,2019-03-07,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",14,2019-04-01,2019-03-07,"Akure South",7.2240233,5.0584892,1
+"https://ncdc.gov.ng/data",15,2019-03-08,2019-03-14,"Jos North",9.9427289,8.8124815,2
+"https://ncdc.gov.ng/data",15,2019-03-08,2019-03-14,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",16,2019-03-15,2019-03-21,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",16,2019-03-15,2019-03-21,"Bunza",12.0849799,4.0008128,1
+"https://ncdc.gov.ng/data",16,2019-03-15,2019-03-21,"Esan South-East",6.5773574,6.1348522,1
+"https://ncdc.gov.ng/data",16,2019-03-15,2019-03-21,"Owo",7.2007797,5.532668,1
+"https://ncdc.gov.ng/data",16,2019-03-15,2019-03-21,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",16,2019-03-15,2019-03-21,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",17,2019-03-22,2019-03-28,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",17,2019-03-22,2019-03-28,"Bunza",12.0849799,4.0008128,1
+"https://ncdc.gov.ng/data",17,2019-03-22,2019-03-28,"Akure South",7.2240233,5.0584892,1
+"https://ncdc.gov.ng/data",17,2019-03-22,2019-03-28,"Owo",7.2007797,5.532668,3
+"https://ncdc.gov.ng/data",18,2019-03-29,2019-04-04,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",18,2019-03-29,2019-04-04,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",18,2019-03-29,2019-04-04,"Esan Central",6.7055907,6.0923684,1
+"https://ncdc.gov.ng/data",18,2019-03-29,2019-04-04,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",18,2019-03-29,2019-04-04,"Ose",7.0504103,5.4165515,2
+"https://ncdc.gov.ng/data",18,2019-03-29,2019-04-04,"Owo",7.2007797,5.532668,4
+"https://ncdc.gov.ng/data",18,2019-03-29,2019-04-04,"Akoko South East",7.4231691,5.8222566,1
+"https://ncdc.gov.ng/data",19,2019-04-05,2019-04-11,"Jalingo",8.8971442,11.3287545,1
+"https://ncdc.gov.ng/data",19,2019-04-05,2019-04-11,"Abakaliki",6.3198588,8.059714,1
+"https://ncdc.gov.ng/data",19,2019-04-05,2019-04-11,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",19,2019-04-05,2019-04-11,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",20,2019-04-12,2019-04-18,"Abakaliki",6.3198588,8.059714,1
+"https://ncdc.gov.ng/data",20,2019-04-12,2019-04-18,"Ishielu",6.4292595,7.6531758,1
+"https://ncdc.gov.ng/data",20,2019-04-12,2019-04-18,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",20,2019-04-12,2019-04-18,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",21,2019-04-19,2019-04-25,"Akure South",7.2240233,5.0584892,1
+"https://ncdc.gov.ng/data",21,2019-04-19,2019-04-25,"Etsako West",7.0003413,6.1625552,1
+"https://ncdc.gov.ng/data",21,2019-04-19,2019-04-25,"Esan South-East",6.5773574,6.1348522,1
+"https://ncdc.gov.ng/data",22,2019-04-26,2019-05-02,"Esan West",6.6595554,5.9664011,2
+"https://ncdc.gov.ng/data",22,2019-04-26,2019-05-02,"Gummi",12.1371578,5.0978128,1
+"https://ncdc.gov.ng/data",23,2019-05-03,2019-05-09,"Lokoja",7.7815771,6.6407535,1
+"https://ncdc.gov.ng/data",23,2019-05-03,2019-05-09,"Ose",7.0504103,5.4165515,1
+"https://ncdc.gov.ng/data",23,2019-05-03,2019-05-09,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",23,2019-05-03,2019-05-09,"Esan Central",6.7055907,6.0923684,2
+"https://ncdc.gov.ng/data",23,2019-05-03,2019-05-09,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",24,2019-05-10,2019-05-16,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",24,2019-05-10,2019-05-16,"Esan West",6.6595554,5.9664011,2
+"https://ncdc.gov.ng/data",25,2019-05-17,2019-05-23,"Esan Central",6.7055907,6.0923684,2
+"https://ncdc.gov.ng/data",25,2019-05-17,2019-05-23,"Etsako East",7.187563,6.3206927,1
+"https://ncdc.gov.ng/data",25,2019-05-17,2019-05-23,"Akoko South East",7.4231691,5.8222566,1
+"https://ncdc.gov.ng/data",25,2019-05-17,2019-05-23,"Owan West",6.9330839,5.7340824,2
+"https://ncdc.gov.ng/data",25,2019-05-17,2019-05-23,"Owo",7.2007797,5.532668,1
+"https://ncdc.gov.ng/data",25,2019-05-17,2019-05-23,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",25,2019-05-17,2019-05-23,"Akure South",7.2240233,5.0584892,2
+"https://ncdc.gov.ng/data",26,2019-05-24,2019-05-30,"Makurdi",7.7290812,8.4735233,1
+"https://ncdc.gov.ng/data",27,2019-05-31,2019-06-06,"Jega",12.230252,4.3015691,1
+"https://ncdc.gov.ng/data",27,2019-05-31,2019-06-06,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",27,2019-05-31,2019-06-06,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",27,2019-05-31,2019-06-06,"Etsako West",7.0003413,6.1625552,1
+"https://ncdc.gov.ng/data",27,2019-05-31,2019-06-06,"Etsako Central",6.9790035,6.3572965,1
+"https://ncdc.gov.ng/data",27,2019-05-31,2019-06-06,"Akoko-Edo",7.3523788,5.8403571,1
+"https://ncdc.gov.ng/data",27,2019-05-31,2019-06-06,"Owo",7.2007797,5.532668,5
+"https://ncdc.gov.ng/data",27,2019-05-31,2019-06-06,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",28,2019-06-07,2019-06-13,"Toro",10.0568128,9.0582467,2
+"https://ncdc.gov.ng/data",28,2019-06-07,2019-06-13,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",28,2019-06-07,2019-06-13,"Esan West",6.6595554,5.9664011,2
+"https://ncdc.gov.ng/data",28,2019-06-07,2019-06-13,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",28,2019-06-07,2019-06-13,"Esan South-East",6.5773574,6.1348522,1
+"https://ncdc.gov.ng/data",28,2019-06-07,2019-06-13,"Ibaji",6.7923384,6.4565163,1
+"https://ncdc.gov.ng/data",29,2019-06-14,2019-06-20,"Izzi",6.5808749,8.0391487,1
+"https://ncdc.gov.ng/data",29,2019-06-14,2019-06-20,"Ohaukwu",6.5273837,7.8485524,1
+"https://ncdc.gov.ng/data",29,2019-06-14,2019-06-20,"Ezza North",6.2606997,7.8050319,1
+"https://ncdc.gov.ng/data",29,2019-06-14,2019-06-20,"Etsako Central",6.9790035,6.3572965,1
+"https://ncdc.gov.ng/data",29,2019-06-14,2019-06-20,"Esan Central",6.7055907,6.0923684,2
+"https://ncdc.gov.ng/data",29,2019-06-14,2019-06-20,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",29,2019-06-14,2019-06-20,"Owo",7.2007797,5.532668,1
+"https://ncdc.gov.ng/data",29,2019-06-14,2019-06-20,"Dass",10.0285674,9.3261511,1
+"https://ncdc.gov.ng/data",30,2019-06-21,2019-06-27,"Toro",10.0568128,9.0582467,1
+"https://ncdc.gov.ng/data",30,2019-06-21,2019-06-27,"Etsako West",7.0003413,6.1625552,1
+"https://ncdc.gov.ng/data",30,2019-06-21,2019-06-27,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",30,2019-06-21,2019-06-27,"Owo",7.2007797,5.532668,5
+"https://ncdc.gov.ng/data",30,2019-06-21,2019-06-27,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",31,2019-06-28,2019-07-04,"Toro",10.0568128,9.0582467,1
+"https://ncdc.gov.ng/data",31,2019-06-28,2019-07-04,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",31,2019-06-28,2019-07-04,"Esan Central",6.7055907,6.0923684,1
+"https://ncdc.gov.ng/data",31,2019-06-28,2019-07-04,"Esan West",6.6595554,5.9664011,2
+"https://ncdc.gov.ng/data",31,2019-06-28,2019-07-04,"Etsako West",7.0003413,6.1625552,2
+"https://ncdc.gov.ng/data",31,2019-06-28,2019-07-04,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",31,2019-06-28,2019-07-04,"Owo",7.2007797,5.532668,1
+"https://ncdc.gov.ng/data",31,2019-06-28,2019-07-04,"Akure South",7.2240233,5.0584892,1
+"https://ncdc.gov.ng/data",31,2019-06-28,2019-07-04,"Ifedore",7.3549065,5.0166988,1
+"https://ncdc.gov.ng/data",32,2019-07-05,2019-07-11,"Akure North",7.2543485,5.1706505,2
+"https://ncdc.gov.ng/data",32,2019-07-05,2019-07-11,"Tafawa-Balewa",9.7650629,9.5311408,1
+"https://ncdc.gov.ng/data",32,2019-07-05,2019-07-11,"Owan West",6.9330839,5.7340824,1
+"https://ncdc.gov.ng/data",32,2019-07-05,2019-07-11,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",33,2019-07-12,2019-07-18,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",33,2019-07-12,2019-07-18,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",34,2019-07-19,2019-07-25,"Ebonyi",6.2420527,7.3206382,1
+"https://ncdc.gov.ng/data",34,2019-07-19,2019-07-25,"Ndokwa West",5.8252305,6.1574338,1
+"https://ncdc.gov.ng/data",34,2019-07-19,2019-07-25,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",34,2019-07-19,2019-07-25,"Esan Central",6.7055907,6.0923684,2
+"https://ncdc.gov.ng/data",34,2019-07-19,2019-07-25,"Etsako West",7.0003413,6.1625552,1
+"https://ncdc.gov.ng/data",35,2019-07-26,2019-08-01,"Bauchi",10.3129773,9.8015685,1
+"https://ncdc.gov.ng/data",35,2019-07-26,2019-08-01,"Arochukwu",5.3844289,7.8841601,1
+"https://ncdc.gov.ng/data",35,2019-07-26,2019-08-01,"Etsako West",7.0003413,6.1625552,2
+"https://ncdc.gov.ng/data",35,2019-07-26,2019-08-01,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",35,2019-07-26,2019-08-01,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",35,2019-07-26,2019-08-01,"Owo",7.2007797,5.532668,5
+"https://ncdc.gov.ng/data",35,2019-07-26,2019-08-01,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",35,2019-07-26,2019-08-01,"Ikorodu",6.6491033,3.3943773,1
+"https://ncdc.gov.ng/data",36,2019-08-02,2019-08-08,"Etsako West",7.0003413,6.1625552,1
+"https://ncdc.gov.ng/data",36,2019-08-02,2019-08-08,"Owan West",6.9330839,5.7340824,2
+"https://ncdc.gov.ng/data",36,2019-08-02,2019-08-08,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",36,2019-08-02,2019-08-08,"Owo",7.2007797,5.532668,1
+"https://ncdc.gov.ng/data",36,2019-08-02,2019-08-08,"Akoko South West",7.40155,5.5107262,1
+"https://ncdc.gov.ng/data",36,2019-08-02,2019-08-08,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",36,2019-08-02,2019-08-08,"Akure South",7.2240233,5.0584892,2
+"https://ncdc.gov.ng/data",37,2019-08-09,2019-08-15,"Makurdi",7.7290812,8.4735233,1
+"https://ncdc.gov.ng/data",37,2019-08-09,2019-08-15,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",37,2019-08-09,2019-08-15,"Esan Central",6.7055907,6.0923684,1
+"https://ncdc.gov.ng/data",37,2019-08-09,2019-08-15,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",37,2019-08-09,2019-08-15,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",38,2019-08-16,2019-08-22,"Esan North-East",6.7873133,6.2190187,2
+"https://ncdc.gov.ng/data",38,2019-08-16,2019-08-22,"Owo",7.2007797,5.532668,5
+"https://ncdc.gov.ng/data",38,2019-08-16,2019-08-22,"Oredo",6.2313139,5.390118,1
+"https://ncdc.gov.ng/data",39,2019-08-23,2019-08-29,"Ibaji",6.7923384,6.4565163,1
+"https://ncdc.gov.ng/data",39,2019-08-23,2019-08-29,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",39,2019-08-23,2019-08-29,"Etsako West",7.0003413,6.1625552,1
+"https://ncdc.gov.ng/data",39,2019-08-23,2019-08-29,"Esan Central",6.7055907,6.0923684,1
+"https://ncdc.gov.ng/data",39,2019-08-23,2019-08-29,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",39,2019-08-23,2019-08-29,"Owan West",6.9330839,5.7340824,1
+"https://ncdc.gov.ng/data",39,2019-08-23,2019-08-29,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",39,2019-08-23,2019-08-29,"Oredo",6.2313139,5.390118,1
+"https://ncdc.gov.ng/data",39,2019-08-23,2019-08-29,"Owo",7.2007797,5.532668,5
+"https://ncdc.gov.ng/data",40,2019-08-30,2019-09-05,"Esan North-East",6.7873133,6.2190187,2
+"https://ncdc.gov.ng/data",40,2019-08-30,2019-09-05,"Esan West",6.6595554,5.9664011,3
+"https://ncdc.gov.ng/data",40,2019-08-30,2019-09-05,"Owo",7.2007797,5.532668,1
+"https://ncdc.gov.ng/data",40,2019-08-30,2019-09-05,"Bauchi",10.3129773,9.8015685,1
+"https://ncdc.gov.ng/data",41,2019-09-06,2019-09-12,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",41,2019-09-06,2019-09-12,"Owan West",6.9330839,5.7340824,1
+"https://ncdc.gov.ng/data",41,2019-09-06,2019-09-12,"Ose",7.0504103,5.4165515,1
+"https://ncdc.gov.ng/data",41,2019-09-06,2019-09-12,"Akoko South West",7.40155,5.5107262,1
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Makurdi",7.7290812,8.4735233,1
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Oredo",6.2313139,5.390118,1
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Egor",6.3461549,5.5016152,1
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Esan Central",6.7055907,6.0923684,1
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Owan West",6.9330839,5.7340824,2
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Ose",7.0504103,5.4165515,2
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",42,2019-09-13,2019-09-19,"Akoko South West",7.40155,5.5107262,1
+"https://ncdc.gov.ng/data",43,2019-09-20,2019-09-26,"Owo",7.2007797,5.532668,1
+"https://ncdc.gov.ng/data",43,2019-09-20,2019-09-26,"Ose",7.0504103,5.4165515,1
+"https://ncdc.gov.ng/data",43,2019-09-20,2019-09-26,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",43,2019-09-20,2019-09-26,"Esan Central",6.7055907,6.0923684,1
+"https://ncdc.gov.ng/data",44,2019-09-27,2019-10-03,"Esan South-East",6.5773574,6.1348522,1
+"https://ncdc.gov.ng/data",44,2019-09-27,2019-10-03,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",44,2019-09-27,2019-10-03,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",44,2019-09-27,2019-10-03,"Owan West",6.9330839,5.7340824,1
+"https://ncdc.gov.ng/data",44,2019-09-27,2019-10-03,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",44,2019-09-27,2019-10-03,"Ose",7.0504103,5.4165515,1
+"https://ncdc.gov.ng/data",44,2019-09-27,2019-10-03,"Owo",7.2007797,5.532668,5
+"https://ncdc.gov.ng/data",45,2019-10-04,2019-10-10,"Umuahia North",5.6084888,7.398653,1
+"https://ncdc.gov.ng/data",45,2019-10-04,2019-10-10,"Abakaliki",6.3198588,8.059714,1
+"https://ncdc.gov.ng/data",45,2019-10-04,2019-10-10,"Igbo-Eze North",7.0068411,7.3797292,1
+"https://ncdc.gov.ng/data",45,2019-10-04,2019-10-10,"Esan North-East",6.7873133,6.2190187,1
+"https://ncdc.gov.ng/data",45,2019-10-04,2019-10-10,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",45,2019-10-04,2019-10-10,"Akoko South West",7.40155,5.5107262,1
+"https://ncdc.gov.ng/data",45,2019-10-04,2019-10-10,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",45,2019-10-04,2019-10-10,"Okitipupa",6.501116,4.7428138,1
+"https://ncdc.gov.ng/data",45,2019-10-04,2019-10-10,"Bauchi",10.3129773,9.8015685,1
+"https://ncdc.gov.ng/data",46,2019-10-11,2019-10-17,"Dass",10.0285674,9.3261511,1
+"https://ncdc.gov.ng/data",46,2019-10-11,2019-10-17,"Esan North-East",6.7873133,6.2190187,3
+"https://ncdc.gov.ng/data",46,2019-10-11,2019-10-17,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",46,2019-10-11,2019-10-17,"Ovia North-East",6.397663,4.898575,1
+"https://ncdc.gov.ng/data",46,2019-10-11,2019-10-17,"Owo",7.2007797,5.532668,3
+"https://ncdc.gov.ng/data",46,2019-10-11,2019-10-17,"Akoko South West",7.40155,5.5107262,3
+"https://ncdc.gov.ng/data",46,2019-10-11,2019-10-17,"Akure South",7.2240233,5.0584892,1
+"https://ncdc.gov.ng/data",47,2019-10-18,2019-10-24,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",47,2019-10-18,2019-10-24,"Owan West",6.9330839,5.7340824,1
+"https://ncdc.gov.ng/data",47,2019-10-18,2019-10-24,"Owo",7.2007797,5.532668,2
+"https://ncdc.gov.ng/data",47,2019-10-18,2019-10-24,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",47,2019-10-18,2019-10-24,"Akure South",7.2240233,5.0584892,1
+"https://ncdc.gov.ng/data",48,2019-10-25,2019-10-31,"Etsako West",7.0003413,6.1625552,1
+"https://ncdc.gov.ng/data",48,2019-10-25,2019-10-31,"Ose",7.0504103,5.4165515,2
+"https://ncdc.gov.ng/data",48,2019-10-25,2019-10-31,"Owo",7.2007797,5.532668,3
+"https://ncdc.gov.ng/data",48,2019-10-25,2019-10-31,"Akoko South West",7.40155,5.5107262,1
+"https://ncdc.gov.ng/data",49,2019-11-01,2019-11-07,"Toro",10.0568128,9.0582467,1
+"https://ncdc.gov.ng/data",49,2019-11-01,2019-11-07,"Gombe",10.4034568,9.8546441,1
+"https://ncdc.gov.ng/data",49,2019-11-01,2019-11-07,"Esan North-East",6.7873133,6.2190187,2
+"https://ncdc.gov.ng/data",49,2019-11-01,2019-11-07,"Owo",7.2007797,5.532668,3
+"https://ncdc.gov.ng/data",49,2019-11-01,2019-11-07,"Ose",7.0504103,5.4165515,3
+"https://ncdc.gov.ng/data",49,2019-11-01,2019-11-07,"Akoko South West",7.40155,5.5107262,2
+"https://ncdc.gov.ng/data",50,2019-11-08,2019-11-14,"Etsako West",7.0003413,6.1625552,1
+"https://ncdc.gov.ng/data",50,2019-11-08,2019-11-14,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",50,2019-11-08,2019-11-14,"Owo",7.2007797,5.532668,3
+"https://ncdc.gov.ng/data",51,2019-11-15,2019-11-21,"Bauchi",10.3129773,9.8015685,1
+"https://ncdc.gov.ng/data",51,2019-11-15,2019-11-21,"Makurdi",7.7290812,8.4735233,1
+"https://ncdc.gov.ng/data",51,2019-11-15,2019-11-21,"Abakaliki",6.3198588,8.059714,1
+"https://ncdc.gov.ng/data",51,2019-11-15,2019-11-21,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",51,2019-11-15,2019-11-21,"Owo",7.2007797,5.532668,4
+"https://ncdc.gov.ng/data",51,2019-11-15,2019-11-21,"Akoko South West",7.40155,5.5107262,1
+"https://ncdc.gov.ng/data",51,2019-11-15,2019-11-21,"Akure North",7.2543485,5.1706505,1
+"https://ncdc.gov.ng/data",51,2019-11-15,2019-11-21,"Akure South",7.2240233,5.0584892,2
+"https://ncdc.gov.ng/data",52,2019-11-22,2019-11-28,"Abakaliki",6.3198588,8.059714,1
+"https://ncdc.gov.ng/data",52,2019-11-22,2019-11-28,"Izzi",6.5808749,8.0391487,2
+"https://ncdc.gov.ng/data",52,2019-11-22,2019-11-28,"Etsako East",7.187563,6.3206927,1
+"https://ncdc.gov.ng/data",52,2019-11-22,2019-11-28,"Esan West",6.6595554,5.9664011,1
+"https://ncdc.gov.ng/data",52,2019-11-22,2019-11-28,"Ose",7.0504103,5.4165515,2
+"https://ncdc.gov.ng/data",52,2019-11-22,2019-11-28,"Akoko South West",7.40155,5.5107262,1
+"https://ncdc.gov.ng/data",52,2019-11-22,2019-11-28,"Owo",7.2007797,5.532668,3
+"https://ncdc.gov.ng/data",52,2019-11-22,2019-11-28,"Toro",10.0568128,9.0582467,1
+"https://ncdc.gov.ng/data",52,2019-11-22,2019-11-28,"Bauchi",10.3129773,9.8015685,2
