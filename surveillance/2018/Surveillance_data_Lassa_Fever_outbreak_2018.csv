@@ -1,4 +1,4 @@
-"url_bulletin","EpiWeek","DateMin","DateMax","SuspCases","ProbCases","ConfCases","ConfDeaths","CFR"
+"source","EpiWeek","DateMin","DateMax","SuspCases","ProbCases","ConfCases","ConfDeaths","CFR"
 "https://github.com/fbranda/lassa-fever/blob/main/bulletins/2018/Lassa_2018_02.pdf",1,2018-01-01,2018-01-07,32,0,5,0,"0.0"
 "https://github.com/fbranda/lassa-fever/blob/main/bulletins/2018/Lassa_2018_03.pdf",2,2018-01-08,2018-01-14,24,1,17,3,"17.6"
 "https://github.com/fbranda/lassa-fever/blob/main/bulletins/2018/Lassa_2018_04.pdf",3,2018-01-15,2018-01-21,51,2,34,14,"41.2"
