@@ -1,4 +1,4 @@
-"url_bulletin","EpiWeek","DateMin","DateMax","SuspCases","ProbCases","ConfCases","ConfDeaths","CFR"
+"source","EpiWeek","DateMin","DateMax","SuspCases","ProbCases","ConfCases","ConfDeaths","CFR"
 NA,1,2017-01-02,2017-01-08,NA,NA,NA,NA,NA
 NA,2,2017-01-09,2017-01-15,NA,NA,NA,NA,NA
 NA,3,2017-01-16,2017-01-22,NA,NA,NA,NA,NA
