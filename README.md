@@ -1,4 +1,4 @@
-# Lassa fever outbreak
+# Lassa fever outbreaks
 
 ## Contents
 
