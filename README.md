@@ -1,8 +1,8 @@
-# Nigeria – Lassa fever outbreak
+# Lassa fever outbreak
 
 ## Contents
 
-This repository contains data extracted from the [Nigeria Centre for Disease Control and Prevention (NCDC)](https://ncdc.gov.ng/diseases/sitreps/?cat=5&name=An%20update%20of%20Lassa%20fever%20outbreak%20in%20Nigeria) bulletins. 
+This repository currently contains data extracted from the [Nigeria Centre for Disease Control and Prevention (NCDC)](https://ncdc.gov.ng/diseases/sitreps/?cat=5&name=An%20update%20of%20Lassa%20fever%20outbreak%20in%20Nigeria) bulletins. 
 
 ## Getting the data
 
