@@ -1,4 +1,4 @@
-# Nigeria Lassa fever outbreak
+# Nigeria – Lassa fever outbreak
 
 ## Contents
 
