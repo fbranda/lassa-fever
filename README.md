@@ -1,4 +1,4 @@
-# Tracking the Lassa Fever Outbreak in Real-Time in Nigeria
+# Nigeria Lassa fever outbreak
 
 ## Contents
 
